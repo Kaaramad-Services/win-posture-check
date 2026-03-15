@@ -67,5 +67,5 @@ Works with **Microsoft Defender, McAfee, and other AV products** via Windows Sec
 
 ```powershell
 git clone https://github.com/Kaaramad-Services/win-posture-check.git
-```powershell
+
 powershell.exe -ExecutionPolicy Bypass -NoProfile -File .\WinPostureCheck.ps1 -OutDir .\report -OpenHtml
